@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Page Title</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body>
+
+<h1>My Website</h1>
+<p>A website created by me.</p>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Örnek Web Sayfası</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Web Sayfamıza Hoş Geldiniz!</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Yapmakta Olduğum Şeyler</h2>
+            <p>Web geliştirme sürecine başladım ve burada yaptıklarımı paylaşıyorum!</p>
+
+            <!-- Liste -->
+            <ul>
+                <li>HTML5 Öğreniyorum</li>
+                <li>CSS ile Tasarımlar Yapıyorum</li>
+                <li>JavaScript ile Dinamik Sayfalar Oluşturuyorum</li>
+            </ul>
+
+            <p>İşte birkaç resim:</p>
+
+            <!-- Resimler -->
+            <img src="https://static.euronews.com/articles/stories/04/27/56/04/1200x675_cmsv2_fd39a28f-72f8-521f-a2e2-b1268bd9aa77-4275604.jpg" alt="Resim 1" />
+            <img src="https://cdnuploads.aa.com.tr/uploads/Contents/2025/02/04/thumbs_b_c_b24d22a8a195a4aaa732ba0b177e8ed4.jpg?v=123729" alt="Resim 2" />
+            <img src="https://assets.goal.com/images/v3/blt9f75e2838e480afa/Cristiano%20Ronaldo%20Portugal%20Euro%202024.jpg?auto=webp&format=pjpg&width=3840&quality=60" alt="Resim 3" />
+
+            <p>Bu web sayfasını doğrulamak ve güvenilir hale getirmek için <a href="https://validator.w3.org/">W3C Doğrulama Aracını</a> kullanabilirsiniz.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 Web Sayfam</p>
+    </footer>
+
+</body>
+
+</html>
